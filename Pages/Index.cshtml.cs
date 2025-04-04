@@ -17,7 +17,6 @@ public class IndexModel : PageModel
     }
 
     public void OnGet()
-    {
-        throw new Exception("This is a test exception for Application Insights");        
+    {     
     }
 }
